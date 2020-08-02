@@ -58,8 +58,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-* linguist-vendored
-*.cs linguist-vendored=false
-
-
-
