@@ -58,10 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-*.cs linguist-detectable=true
-*.aspx linguist-detectable=false
-*.shader linguist-detectable=false
-*.cginc linguist-detectable=false
-
 
 
