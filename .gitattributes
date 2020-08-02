@@ -1,2 +1,6 @@
-* linguist-vendored
-*.cs linguist-vendored=false
+*.aspx linguist-vendored
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
